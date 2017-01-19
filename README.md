@@ -1,5 +1,7 @@
 # Find-an-index-in-an-array-such-that-its-prefix-sum-equals-its-suffix-sum.
 
+Check out the test results here: https://codility.com/demo/results/demoXNWWVP-GJ3/
+
 Task description
 This is a demo task.
 
